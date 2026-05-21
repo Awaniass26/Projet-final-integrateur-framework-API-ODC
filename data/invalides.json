@@ -1,0 +1,1163 @@
+[
+  {
+    "code": "AAD003",
+    "numero": "2014079LH",
+    "nom": "CISSE",
+    "prenom": "Baba",
+    "date_naissance": "16/08/99",
+    "classe": "6ieme A",
+    "notes_brutes": "Math[11|13:06] #Francais[08|17:12] #Anglais[13|13:12] #PC[09|18:07] #SVT[15|10:10] #HG[14|19:17]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "2016023LD",
+    "nom": "NDIAYE",
+    "prenom": "mbaye",
+    "date_naissance": "12/09/00",
+    "classe": "5ieme A",
+    "notes_brutes": "Math[05|13:05] #Francais[11|17:15] #Anglais[19|14:15] #PC[13|11:07] #SVT[12|09:12] #HG[16|15:17]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "286325HG",
+    "nom": "GAYE",
+    "prenom": "Awa",
+    "date_naissance": "13/04/12",
+    "classe": "3iemeA",
+    "notes_brutes": "Math[04|13:05] #Francais[15|06:11] #Anglais[15|13:13] #PC[14|13:07] #SVT[12|19:10] #HG[18|15:17]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "201817JK",
+    "nom": "NDAO",
+    "prenom": "Ndiaga",
+    "date_naissance": "12/04/00",
+    "classe": "6iemeB",
+    "notes_brutes": "Math[04|13:05] #Francais[15|16:14] #Anglais[15|16:11] #PC[04|03:07] #SVT[12|09:11] #HG[16|15:10]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "65281LKJ",
+    "nom": "DEME",
+    "prenom": "Saliou",
+    "date_naissance": "19/03/05",
+    "classe": "5iemeB",
+    "notes_brutes": "Math[20|19.5:05] #Francais[13|16:14] #Anglais[17|19:17] #PC[14|13:17] #SVT[12|19:10] #HG[16|19:17]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "2007095KH",
+    "nom": "Ngadeu",
+    "prenom": "Dinka",
+    "date_naissance": "03/12/01",
+    "classe": "3iemeB",
+    "notes_brutes": "Math[12|13:15] #Francais[05|18:12] #Anglais[12|14:18] #PC[24|13:07] #SVT[17|09:12] #HG[16|15:17]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "201607RK",
+    "nom": "BA",
+    "prenom": "Mouhamed",
+    "date_naissance": "19/06/96",
+    "classe": "4iemeC",
+    "notes_brutes": "Math[04|03:05] #Francais[15|16:14] #Anglais[15|16:14] #PC[04|03:07] #SVT[12|09:15] #HG[16|15:13]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "2014067K",
+    "nom": "GUEYE",
+    "prenom": "Mansour",
+    "date_naissance": "34-13-1992",
+    "classe": "4iemeC",
+    "notes_brutes": "Math[14|12:15] #Francais[18|06:14] #Anglais[15|12:12] #PC[18|13:07] #SVT[11|19:12] #HG[13|15:12]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "20133HGF",
+    "nom": "DANSOKHO",
+    "prenom": "Siriman",
+    "date_naissance": "13/04/10",
+    "classe": "6iemeC",
+    "notes_brutes": "Math[04|03:05] #Francais[15|15:14] #Anglais[15|06:15] #PC[14|06:07] #SVT[18|09:15] #HG[11|15:12]"
+  },
+  {
+    "code": "AAD003",
+    "numero": "2017ZEA5L",
+    "nom": "TOURE",
+    "prenom": "Sokhna",
+    "date_naissance": "23/04/14",
+    "classe": "3iemeC",
+    "notes_brutes": "Math[14|13:05] #Francais[18|16:14] #Anglais[15|06:17] #PC[14|13:07] #SVT[18|12:16] #HG[13|15:13]"
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD004",
+    "numero": "",
+    "nom": "",
+    "prenom": "",
+    "date_naissance": "",
+    "classe": "",
+    "notes_brutes": ""
+  },
+  {
+    "code": "AAD005",
+    "numero": "M67KQV7",
+    "nom": "Correa",
+    "prenom": "Albert",
+    "date_naissance": "26/12/03",
+    "classe": "6emA",
+    "notes_brutes": "PC[11|10|9:10]#Math[11|10|12:10]#Francais[10:9]#Anglais[12:111]#SVT[10|12|8:12]#HG[11:13]"
+  },
+  {
+    "code": "AAD007",
+    "numero": "0747PMJ",
+    "nom": "Ndao",
+    "prenom": "Baye Ndiaga",
+    "date_naissance": "08/08/08",
+    "classe": "5em B",
+    "notes_brutes": "SVT[13|9|11:14] #HG[10:13]  #Math[12|14,5|11:13]  #Francais[8|11:13] #Anglais[13,5:15]  #PC[13|11:9]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "LSNP5Of",
+    "nom": "Sow",
+    "prenom": "Mari",
+    "date_naissance": "28/12/01",
+    "classe": "6eme A",
+    "notes_brutes": "Math[10|11:15] #Francais[7|12|8:13] #Anglais[13,5|9:15] #PC[11:9]  #SVT[12|9|16|11:12]  #HG[10:13]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "PONAAC0",
+    "nom": "Tine",
+    "prenom": "Jean",
+    "date_naissance": "18/05/04",
+    "classe": "3eme A",
+    "notes_brutes": "PC[11:9]#   Math[12|14,5|11:13]   #Francais[14|12:13]  #Anglais[12,8:15]  #SVT[10|9|16|13:12]  #HG[10:16]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "27WERUG",
+    "nom": "Fall",
+    "prenom": "Ouley",
+    "date_naissance": "16/11/05",
+    "classe": "3eme B",
+    "notes_brutes": "PC[11:19]#   Math[02|10,5|11:13]   #Francais[14|11:13]  #Anglais[03,8:10]  #SVT[12|9|16|11:10]  #HG[11:15]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "UHT9KD8",
+    "nom": "Seye",
+    "prenom": "Malick",
+    "date_naissance": "07/10/07",
+    "classe": "5eme C",
+    "notes_brutes": "Math[10|14,5|11|03:16] #PC[11:19]  #Francais[4|11:13]  #SVT[12|9|16|11:12] #HG[19:13]  #Anglais[10,5:15]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "O6G7XCQ",
+    "nom": "Tamba",
+    "prenom": "Lamine",
+    "date_naissance": "09/01/06",
+    "classe": "3eme D",
+    "notes_brutes": "SVT[13|9|11:14] #HG[10:13]  #Math[12|14,5|11:13]  #Francais[8|11:13] #Anglais[13,5:15]  #PC[13|11:9]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "HDCB2G7",
+    "nom": "Ndaw",
+    "prenom": "Ousmane",
+    "date_naissance": "14/08/00",
+    "classe": "4eme B",
+    "notes_brutes": "PC[11:19]#   Math[12|14,5|11:03]   #Francais[14|11:13]  #Anglais[13,8:05]  #SVT[12|19|16|11:19]  #HG[11:10]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "GFD3G8G",
+    "nom": "Ndour",
+    "prenom": "Fatime",
+    "date_naissance": "05/mars/2002",
+    "classe": "5eme D",
+    "notes_brutes": "Math[9|10,5|10|13:16] #PC[12:15]  #Francais[10|17:13]  #SVT[15|9|06|11:12] #HG[13:03]  #Anglais[13,12:05]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "GC4BDQ7",
+    "nom": "Sarr",
+    "prenom": "Oumi",
+    "date_naissance": "17/06/03",
+    "classe": "3eme A",
+    "notes_brutes": "Math[10|14,5|11|15:17] #PC[11:9]  #Francais[16|11:13]  #SVT[12|9|14|11:12] #HG[15:11]  #Anglais[13,5:15]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "BK63HBS",
+    "nom": "Gueye",
+    "prenom": "Astou",
+    "date_naissance": "28/02/12",
+    "classe": "3eme A",
+    "notes_brutes": "SVT[15|11|11:12] #HG[6:16]  #Math[10|14,9|11:17]  #Francais[8|13:13] #Anglais[18,5:15]  #PC[7|11:9]"
+  },
+  {
+    "code": "AAD22",
+    "numero": "GSQ3H84",
+    "nom": "Diouf",
+    "prenom": "Wally",
+    "date_naissance": "30/09/05",
+    "classe": "4eme c",
+    "notes_brutes": ""
+  },
+  {
+    "code": "ABD009",
+    "numero": "ERSTYDD",
+    "nom": "Akapla",
+    "prenom": "Diop",
+    "date_naissance": "03/05/78",
+    "classe": "5eme C",
+    "notes_brutes": "Math[10|14:15] #Francais[11|9|1:10] #Anglais[10,9|9:1] #PC[10:11] #SVT[10|2|6|10:9] #HG[17:0]"
+  },
+  {
+    "code": "ABD009",
+    "numero": "ERTDH6G",
+    "nom": "Gadiaga",
+    "prenom": "Xouli",
+    "date_naissance": "30/07/18",
+    "classe": "5eme 4",
+    "notes_brutes": "Math[1|4:15] #Francais[10|19|14:13] #Anglais[10,9|9:1] #PC[10:11] #SVT[10|20|16|10:9] #HG[9:18]"
+  },
+  {
+    "code": "ABD009",
+    "numero": "TTEDJE56",
+    "nom": "Missari",
+    "prenom": "Koumpa",
+    "date_naissance": "31/09/2014",
+    "classe": "3eme B",
+    "notes_brutes": "Math[10|4:15] #Francais[18|9|18:10] #Anglais[10,9|9:5] #PC[10:11] #SVT[10|20|16|10:9] #HG[19:10]"
+  },
+  {
+    "code": "ABD009",
+    "numero": "RTGHSDG",
+    "nom": "Ndol",
+    "prenom": "Gueye",
+    "date_naissance": "30/09/06",
+    "classe": "5eme B",
+    "notes_brutes": "Math[10|4:15] #Francais[11|1|17:10] #Anglais[8,9|5:14] #PC[17:11]  #SVT[15|10|6|8:5]  #HG[9:16]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "PONAAM0",
+    "nom": "Mayoro",
+    "prenom": "Diop",
+    "date_naissance": "14 05 2002",
+    "classe": "6emeB",
+    "notes_brutes": "Français[12|08:17]#Anglais[15|19:17]#SVT[18|16:17]#HG[18|13:17]#Science_Physique[13|13:12]#Math[15|14:15]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "83WERRE",
+    "nom": "Wesh",
+    "prenom": "Morey",
+    "date_naissance": "25_11_2004",
+    "classe": "3eme D",
+    "notes_brutes": "Français[16|08:15]#Anglais[19|19:17]#SVT[12|14:07]#HG[18|13:17]#Science_Physique[00|03:02]#Math[06|17:13]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "TER0R0R",
+    "nom": "Billie",
+    "prenom": "Jeane",
+    "date_naissance": "17/08/98",
+    "classe": "1ereS1",
+    "notes_brutes": "Français[06|08:05]#Anglais[20|20:17]#SVT[13|14:13]#HG[11|13:17]#Science_Physique[12|11:15]#Math[06|17:18]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "WHYIAMI",
+    "nom": "Ragnard",
+    "prenom": "Lordbrock",
+    "date_naissance": "01/12/79",
+    "classe": "1 ere S1",
+    "notes_brutes": "Français[06|07:05]#Anglais[10|10:11]#SVT[13|17:13]#HG[11|05:07]#Science_Physique[12|18:15]#Math[16|17:18]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "WOO3OOO",
+    "nom": "Perus",
+    "prenom": "Morgan",
+    "date_naissance": "06/06/70",
+    "classe": "Tle S1",
+    "notes_brutes": "Français[08|07:15]#Anglais[10|10:09]#SVT[13|13:13]#HG[03|05:07]#Science_Physique[13|11:12]#Math[10|07:08]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "558YRYT",
+    "nom": "Shawn",
+    "prenom": "Thiam",
+    "date_naissance": "28/02/97",
+    "classe": "Tle S2",
+    "notes_brutes": "Français[09|17:16]#Anglais[10|13:09]#SVT[13|12:14]#HG[13|15:07]#Science_Physique[12|12:14]#Math[11|07:18]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "444111T",
+    "nom": "Mbeuthie Fall",
+    "prenom": "Laye",
+    "date_naissance": "01/09/15",
+    "classe": "Tlel'1",
+    "notes_brutes": "Français[09|17:16]#Anglais[10|13:15]#SVT[13|12:14]#HG[11|15:11]#Science_Physique[12|13:14]#Math[10|07:12]"
+  },
+  {
+    "code": "ABN018",
+    "numero": "WORK246",
+    "nom": "Famara",
+    "prenom": "Bodian",
+    "date_naissance": "12/12/95",
+    "classe": "5eme F",
+    "notes_brutes": "Français[19|17:10]#Anglais[13|14:15]#SVT[13|16:14]#HG[13|15:11]#Science_Physique[17|13:14]#Math[16|07:12]"
+  },
+  {
+    "code": "AFD006",
+    "numero": "2022R3M",
+    "nom": "DIAW",
+    "prenom": "Fallou",
+    "date_naissance": "o5-06-1999",
+    "classe": "3èmeC",
+    "notes_brutes": "Math[17|16:19]#Français[14|15:14]#Anglais[18|17:16]#PC[19|19:19]#SVT[11:16]#HG[12:19]"
+  },
+  {
+    "code": "AFD006",
+    "numero": "2016EJKL",
+    "nom": "SECK",
+    "prenom": "Modou",
+    "date_naissance": "03/01/99",
+    "classe": "5èmeB",
+    "notes_brutes": "Math[05|03|00:09]#Français[09|12|13:10]#Anglais[12|12:16]#PC[04|08:10]#SVT[12|13:14]#HG[10|12:15]"
+  },
+  {
+    "code": "AFD006",
+    "numero": "2019GHS",
+    "nom": "BOISY",
+    "prenom": "Chris",
+    "date_naissance": "04/09/01",
+    "classe": "5èmeC",
+    "notes_brutes": "Math[13|11:13] #PC[13|19:14]  #Francais[12|14:14]  #SVT[15|19:15] #HG[10|18:13]  #Anglais[11|12|11:20"
+  },
+  {
+    "code": "AFD006",
+    "numero": "20178XYZ",
+    "nom": "FALL",
+    "prenom": "Khabane",
+    "date_naissance": "27/12/98",
+    "classe": "6èmeC",
+    "notes_brutes": "Math[13|11:13] #PC[13|19:14]  #Francais[12|14:14]  #SVT[15|19:15] #HG[10|18:13]  #Anglais[11|12|11:20]"
+  },
+  {
+    "code": "AFD006",
+    "numero": "2019R3M",
+    "nom": "MOHAMED",
+    "prenom": "Ben Omar",
+    "date_naissance": "30/03/99",
+    "classe": "3èmeC",
+    "notes_brutes": "Math[12|16|18:19]#Françcais[15:17]#Anglais[10|11:09]#PC[15|17|13:17]#SVT[16|16:14]#HG[15:17]"
+  },
+  {
+    "code": "AFD006",
+    "numero": "2018JKH",
+    "nom": "NDIAYE",
+    "prenom": "Zeyna",
+    "date_naissance": "23/06/98",
+    "classe": "4èmeA",
+    "notes_brutes": "Math[13|11:13] #PC[13|19:14]  #Francais[12|14:14]  #SVT[15|19:15] #HG[10|18:13]  #Anglais[11|12|11:20"
+  },
+  {
+    "code": "AID011",
+    "numero": "201305PG8",
+    "nom": "DIAW",
+    "prenom": "FARA",
+    "date_naissance": "09/06/95",
+    "classe": "6eme A",
+    "notes_brutes": "Français[12|14:15]#Anglais[16|18:19]#SVT[10|11:09]#HG[12|11:17]#Science_Physique[15|17:18]#Math[13|17:16]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201307PG8",
+    "nom": "NDIOUR",
+    "prenom": "LEMOU",
+    "date_naissance": "12/07/96",
+    "classe": "3eme A",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[14|12:13] #Anglais[12,8:15] #SVT[10|9|16|13:12] #HG[10:16]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201301PFT",
+    "nom": "FAYE",
+    "prenom": "BIRAM",
+    "date_naissance": "23/03/99",
+    "classe": "3eme B",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[14|12:13] #Anglais[12,8:15] #SVT[10|9|16|13:12] #HG[10:16]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201308PG7",
+    "nom": "DIOUF",
+    "prenom": "ALY",
+    "date_naissance": "22/05/98",
+    "classe": "5eme C",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[4|11:13] #Anglais[13,8:15] #SVT[12|9|16|11:12] #HG[11:13]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201306PH3",
+    "nom": "DIOP",
+    "prenom": "DABA",
+    "date_naissance": "24/09/99",
+    "classe": "3eme D",
+    "notes_brutes": "Math[10|11:15] #Francais[7|12|8:13] #Anglais[13,5|9:15] #PC[11:9] #SVT[12|9|16|11:12] #HG[10:13]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201302PL6",
+    "nom": "DIENE",
+    "prenom": "DALY",
+    "date_naissance": "12/10/97",
+    "classe": "4eme B",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[4|11:13] #Anglais[13,8:15] #SVT[12|9|16|11:12] #HG[11:13]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201305PY9",
+    "nom": "FALL",
+    "prenom": "ABOU",
+    "date_naissance": "23-decembre-1994",
+    "classe": "5eme D",
+    "notes_brutes": "#Math[14|12|10:12] #PC[12|9:12] #Francais[14:15] #SVT[16:17] #HG[12|16:14] #Anglais[13|10:11]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201306PT4",
+    "nom": "FAYE",
+    "prenom": "SIDI",
+    "date_naissance": "12/11/93",
+    "classe": "3eme A",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[4|11:13] #Anglais[13,8:15] #SVT[12|9|16|11:12] #HG[11:13]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201301PB7",
+    "nom": "SENE",
+    "prenom": "DOMINIQUE",
+    "date_naissance": "24/01/98",
+    "classe": "3eme A",
+    "notes_brutes": "Math[10|14,5|11|15:17] #PC[11:9] #Francais[16|11:13] #SVT[12|9|14|11:12] #HG[15:11] #Anglais[13,5:15]"
+  },
+  {
+    "code": "AID011",
+    "numero": "201309OD3",
+    "nom": "NDIAYE",
+    "prenom": "SALIF",
+    "date_naissance": "26/06/96",
+    "classe": "4eme c",
+    "notes_brutes": "Math[10|11:15] #Francais[7|9|8:13] #Anglais[10,5|9:15] #PC[10:11] #SVT[12|11|16|8:12] #HG[10:10]"
+  },
+  {
+    "code": "AKH014",
+    "numero": "R456T7O",
+    "nom": "FAURE",
+    "prenom": "JULIE",
+    "date_naissance": "12/11/00",
+    "classe": "6èmeG",
+    "notes_brutes": "Math[20|19.5:05] #Francais[13|16:14] #Anglais[17|19:17] #PC[14|13:17] #SVT[12|19:10] #HG[16|19:17]"
+  },
+  {
+    "code": "AKH014",
+    "numero": "9OIM76T",
+    "nom": "GALEA",
+    "prenom": "EMILIE",
+    "date_naissance": "04/07/94",
+    "classe": "5eme A",
+    "notes_brutes": "MATH[18|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AKH014",
+    "numero": "30NB45E",
+    "nom": "HAMAMA",
+    "prenom": "MAVEL",
+    "date_naissance": "07/01/98",
+    "classe": "3eme B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AKH014",
+    "numero": "8987BHT",
+    "nom": "MBAYE",
+    "prenom": "IBOU",
+    "date_naissance": "03/01/00",
+    "classe": "3eme D",
+    "notes_brutes": "SVT[12|20:19] #PC[13|16:19] #Francais[24|15:12] #SVT[12|18:16] #Anglais[17|19:11] #HG[00|07:02] #Math[11|13:14]"
+  },
+  {
+    "code": "ALT020",
+    "numero": "CIDIE01",
+    "nom": "CISSE",
+    "prenom": "Diégane",
+    "date_naissance": "02/05/32",
+    "classe": "5emeA",
+    "notes_brutes": "MATH[15|17:20]#SVT[11|13:10]#PC[15|12:15]#ANGLAIS[05|12:15]#FRANCAIS[06|11:09]#HG[01|15:18]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "MN45LD5",
+    "nom": "SENGHOR",
+    "prenom": "Mbegane",
+    "date_naissance": "12/05/68",
+    "classe": "4emeA",
+    "notes_brutes": "MATH[19|04:08]#SVT[12|05:16]#PC[07|13:09]#ANGLAIS[13|17:14]#FRANCAIS[19|17:11]#HG[15|11:12]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "KF578FG",
+    "nom": "MARA",
+    "prenom": "Souma",
+    "date_naissance": "17,11,1921",
+    "classe": "3emeA",
+    "notes_brutes": "MATH[11|14:16]#SVT[07|16:20]#PC[14|12:17]#ANGLAIS[11|06:15]#FRANCAIS[16|11:09]#HG[08|16:10]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "JROÙ457",
+    "nom": "CONDOUL",
+    "prenom": "Sangoul",
+    "date_naissance": "07|06|1945",
+    "classe": "6emeA",
+    "notes_brutes": "MATH[15|10:19]#SVT[16|13:19]#PC[16|13:10]#ANGLAIS[15|02:16]#FRANCAIS[15|20:11]#HG[12|13:11]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "VF14HGZ",
+    "nom": "TAMBEDOU",
+    "prenom": "NiouKH",
+    "date_naissance": "18/12/99",
+    "classe": "4emeB",
+    "notes_brutes": "MATH[10|12:11]#SVT[05|07:11]#PC[15|05:09]#ANGLAIS[11|16:15]#FRANCAIS[16|11:19]#HG[11|10:18]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "RTOP15K",
+    "nom": "SARR",
+    "prenom": "Mbissine",
+    "date_naissance": "01/12/96",
+    "classe": "5emeB",
+    "notes_brutes": "MATH[16|16:15]#SVT[10|13:16]#PC[10|14:18]#ANGLAIS[15|14:15]#FRANCAIS[11|11:16]#HG[19|16:12]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "FYHE142",
+    "nom": "DIOUF",
+    "prenom": "MBathiou",
+    "date_naissance": "14-25-13",
+    "classe": "6emeB",
+    "notes_brutes": "MATH[13|18:16]#SVT[18|19:20]#PC[17|13:14]#ANGLAIS[15|12:14]#FRANCAIS[09|01:19]#HG[16|11:15]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "HGKE145",
+    "nom": "DEME",
+    "prenom": "Ndew",
+    "date_naissance": "15/02/56",
+    "classe": "6emeB",
+    "notes_brutes": "MATH[15|15:16]#SVT[17|14:15]#PC[19|12:14]#ANGLAIS[12|10:11]#FRANCAIS[16|13:14]#HG[13|12:14]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "54BFH54",
+    "nom": "KOITA",
+    "prenom": "Fatou",
+    "date_naissance": "15/11/78",
+    "classe": "4emeB",
+    "notes_brutes": "MATH[14|17:16]#SVT[15|19:13]#PC[15|16:19]#ANGLAIS[13|19:16]#FRANCAIS[10|11:11]#HG[13|14:11]#"
+  },
+  {
+    "code": "ALT020",
+    "numero": "DF85FUJ",
+    "nom": "LABOU",
+    "prenom": "Pon",
+    "date_naissance": "17/06/02",
+    "classe": "5emeA",
+    "notes_brutes": "MATH[15|17:20]#SVT[11|09:13]#PC[18|17:05]#ANGLAIS[15|12:15]#FRANCAIS[16|11:19]#HG[11|15:18]#"
+  },
+  {
+    "code": "AMB001",
+    "numero": "101465876kj",
+    "nom": "Gueye",
+    "prenom": "Moussa",
+    "date_naissance": "01/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[10|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "16382702l",
+    "nom": "DIOUF",
+    "prenom": "BALLA",
+    "date_naissance": "02/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "12889HI",
+    "nom": "CAMARA",
+    "prenom": "KAMOU",
+    "date_naissance": "03/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[12|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "1732919jj",
+    "nom": "DIOP",
+    "prenom": "MODOU",
+    "date_naissance": "04/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[13|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "127923ghj",
+    "nom": "FALL",
+    "prenom": "SOBLE",
+    "date_naissance": "05/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[14|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "1908GD",
+    "nom": "GAYE",
+    "prenom": "PATHÉ",
+    "date_naissance": "06/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[15|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "1382839hjklk",
+    "nom": "HANN",
+    "prenom": "JIM",
+    "date_naissance": "07/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[16|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "19937HH",
+    "nom": "JANN",
+    "prenom": "KABOU",
+    "date_naissance": "08/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[17|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "17282hh",
+    "nom": "KA",
+    "prenom": "LAMINE",
+    "date_naissance": "09/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[18|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMB001",
+    "numero": "17329pp",
+    "nom": "LOUM",
+    "prenom": "MOUSSA",
+    "date_naissance": "10/01/00",
+    "classe": "6eme A",
+    "notes_brutes": "MATH[19|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0000",
+    "nom": "BA",
+    "prenom": "MODOU",
+    "date_naissance": "12/12/05",
+    "classe": "3 em A",
+    "notes_brutes": "MATH[|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0001",
+    "nom": "BODIAN",
+    "prenom": "FATOU",
+    "date_naissance": "11/04/06",
+    "classe": "3 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0002",
+    "nom": "CAMARA",
+    "prenom": "PAPE",
+    "date_naissance": "04/02/09",
+    "classe": "4 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0003",
+    "nom": "CISSE",
+    "prenom": "PHILO",
+    "date_naissance": "25/03/10",
+    "classe": "5 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0004",
+    "nom": "DIOP",
+    "prenom": "KHADIM",
+    "date_naissance": "04/02/11",
+    "classe": "6 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0005",
+    "nom": "FALL",
+    "prenom": "KATY",
+    "date_naissance": "05/11/10",
+    "classe": "6 em A",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0006",
+    "nom": "NDIAYE",
+    "prenom": "SOKHNA",
+    "date_naissance": "06/08/07",
+    "classe": "4 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0007",
+    "nom": "MBAYE",
+    "prenom": "CHEIKH",
+    "date_naissance": "07/06/07",
+    "classe": "4 em A",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0008",
+    "nom": "POUYE",
+    "prenom": "PALLA",
+    "date_naissance": "08/08/07",
+    "classe": "5 em B",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMC002",
+    "numero": "AAAA0009",
+    "nom": "OUATARA",
+    "prenom": "THIERNO",
+    "date_naissance": "09/09/07",
+    "classe": "5 em A",
+    "notes_brutes": "MATH[11|14|20]#PC[12|13:15]#SVT[10|13:16]#FRANÇAIS[10|11:14]#ANGLAIS[11|11:20]#HG[10|12|14]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "E7812Z3",
+    "nom": "DIOP",
+    "prenom": "ALY",
+    "date_naissance": "12/04/98",
+    "classe": "5emA",
+    "notes_brutes": "#Math[14|12|10:12] #PC[12|9:12]  #Francais[14:15]  #SVT[16:17] #HG[12|16:14]  #Anglais[13|10:11]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z781263",
+    "nom": "FAYE",
+    "prenom": "FATOU",
+    "date_naissance": "12/04/97",
+    "classe": "6emB",
+    "notes_brutes": "#Math[13|12:13] #PC[10|9:19]  #Francais[04:10]  #SVT[12|19:07] #HG[12|10:14]  #Anglais[03|13:15]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z3",
+    "nom": "DIOUF",
+    "prenom": "MALICK",
+    "date_naissance": "05:42:18",
+    "classe": "4emB",
+    "notes_brutes": "#HG[11|15:18] #PC[15:18]  #Francais[12|13:11]  #SVT[13|14:15] #Math[11:16]  #Anglais[11|14:16]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z5",
+    "nom": "DIOUM",
+    "prenom": "ALIOUNE",
+    "date_naissance": "12,12,2011",
+    "classe": "3emB",
+    "notes_brutes": "PC[11:9]# Math[12|14,5|11:13] #Francais[4|11:13] #Anglais[13,8:15] #SVT[12|9|16|11:12] #HG[11:13]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z9",
+    "nom": "NDIAYE",
+    "prenom": "MOUSSA",
+    "date_naissance": "12 03 1999",
+    "classe": "3emA",
+    "notes_brutes": "Math[10|11:15] #Francais[7|9|8:13] #Anglais[10,5|9:15] #PC[10:11] #SVT[12|11|16|8:12] #HG[10:10]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z7",
+    "nom": "MBAYE",
+    "prenom": "IDRISSA",
+    "date_naissance": "15 05 2011",
+    "classe": "4emA",
+    "notes_brutes": "SVT[15|11|11:12] #HG[6|14:16]  #Math[10|12,19|11:16]  #Francais[18|11:15] #Anglais[8,15:15]  #PC[7|11|09:9]"
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7832Z3",
+    "nom": "SANE",
+    "prenom": "MOUSSA",
+    "date_naissance": "29/12/01",
+    "classe": "5emA",
+    "notes_brutes": "#Math[11|11:12] #PC[11|11:12]  #ANGLAIS[10|14:15]  #SVT[11|1:14] #HG[11|13:14]  #Francais[11|15:12]"
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA010",
+    "nom": "FALL",
+    "prenom": "KHADY",
+    "date_naissance": "07-06-199Ç",
+    "classe": "6emB",
+    "notes_brutes": "Math[04|03:05] #Francais[15|16:14] #Anglais[15|16:17] #PC[04|03:07] #SVT[12|09:10] #HG[16|15:17]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "A7723ML",
+    "nom": "Kane",
+    "prenom": "Moussa",
+    "date_naissance": "29/12/01",
+    "classe": "6emA",
+    "notes_brutes": "#Math[14|12|10:12] #PC[12|9:12]  #Francais[14:15]  #SVT[16:17] #HG[12|16:14]  #Anglais[13|10:11]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "Z7812Z3",
+    "nom": "Konimba",
+    "prenom": "Mousona",
+    "date_naissance": "12 12 2009",
+    "classe": "3emB",
+    "notes_brutes": "#Math[12|10:19] #PC[12:12]  #Francais[14|15|12:19]  #SVT[16|18:17] #HG[18:14]  #Anglais[18:11]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "M770231",
+    "nom": "Ilimani",
+    "prenom": "Mustapha",
+    "date_naissance": "12/04/97",
+    "classe": "3emB",
+    "notes_brutes": "#Math[10|12:12] #PC[13|19:10]  #Francais[19| 12:10]  #SVT[11|16:17] #HG[11|13:19]  #Anglais[11|19:18]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "K771427",
+    "nom": "Sy",
+    "prenom": "Malick",
+    "date_naissance": "05:42:18",
+    "classe": "6emB",
+    "notes_brutes": "#Math[12|14|11:19] #PC[10|11:13]  #Francais[10:12]  #SVT[13:19] #HG[16:14]  #Anglais[10|17:17]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "JH23GH3",
+    "nom": "Loum",
+    "prenom": "Mamadou",
+    "date_naissance": "12,12,2011",
+    "classe": "3emA",
+    "notes_brutes": "#Math[13|12:13] #PC[10|9:19]  #Francais[04:10]  #SVT[12|19:07] #HG[12|10:14]  #Anglais[03|13:15]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "SX34AZ2",
+    "nom": "Gaye",
+    "prenom": "Souleyni",
+    "date_naissance": "12 03 1999",
+    "classe": "6emB",
+    "notes_brutes": "#Math[10|19|10:10] #PC[10|9:10]  #Francais[10:13]  #SVT[16|10:17] #HG[02|16:13]  #Anglais[10|11:12]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "E9D45JJ",
+    "nom": "Hann",
+    "prenom": "Cheikh",
+    "date_naissance": "09/09/12",
+    "classe": "3emA",
+    "notes_brutes": "#Math[13|11:13] #PC[13|19:14]  #Francais[12|14:14]  #SVT[15|19:15] #HG[10|18:13]  #Anglais[11|12|11:20]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "HIE938J",
+    "nom": "Kane",
+    "prenom": "Aliou",
+    "date_naissance": "15 05 2011",
+    "classe": "6emB",
+    "notes_brutes": "#Math[20|20|20:20] #PC[20|20:20]  #Francais[14|12:15]  #SVT[19|19:19] #HG[07|01:10]  #Anglais[06|13:13]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "23JHNB2",
+    "nom": "Ngimbona",
+    "prenom": "Charles",
+    "date_naissance": "03/09/00",
+    "classe": "3emB",
+    "notes_brutes": "#Math[11|10|09:11] #PC[11|11|9:11]  #Francais[18|19|19:17]  #SVT[01:11] #HG[19:19]  #Anglais[19|17:19]"
+  },
+  {
+    "code": "AMK016",
+    "numero": "HJ293D4",
+    "nom": "Ikouna",
+    "prenom": "Mbalanga",
+    "date_naissance": "01 01 2001",
+    "classe": "3emA",
+    "notes_brutes": "#Math[13|12|10:12] #PC[12|9:12]  #Francais[14:15]  #SVT[16:17] #HG[12|16:14]  #Anglais[13|10:11]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "DKZGS12",
+    "nom": "diop",
+    "prenom": "Ousmane",
+    "date_naissance": "1 fev 2004",
+    "classe": "5emB",
+    "notes_brutes": "#Math[14|10:12] #PC[9:12]  #Francais[14|14:15]  #SVT[16|11:17] #HG[16:14]  #Anglais[13,10:11]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "DLEDQDO",
+    "nom": "ndiaye",
+    "prenom": "abdou",
+    "date_naissance": "21/03/05",
+    "classe": "4 emA",
+    "notes_brutes": "#HG[11|15:18] #PC[15:18]  #Francais[12|13:11]  #SVT[13|14:15] #Math[11:16]  #Anglais[11|14:16]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "XSDEF12",
+    "nom": "gueye",
+    "prenom": "fatou",
+    "date_naissance": "03/04/05",
+    "classe": "4emB",
+    "notes_brutes": "#HG[12:11] #SVT[12|10:8]  #Francais[14|11:4]  #PC[10|4:9] #Math[18:19]  #Anglais[4|8:16]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "DEGLAC4",
+    "nom": "fall",
+    "prenom": "saly",
+    "date_naissance": "06/12/07",
+    "classe": "6 em B",
+    "notes_brutes": "#HG[13:14] #SVT[14|13:18]  #Francais[11|12:14]  #PC[12|14:10] #Math[11:12]  #Anglais[14|18:1]8"
+  },
+  {
+    "code": "AOD010",
+    "numero": "DZFXML5",
+    "nom": "Lo",
+    "prenom": "amy",
+    "date_naissance": "08/03/03",
+    "classe": "3 em A",
+    "notes_brutes": "#HG[13:14] #SVT[14|13:18]  #Francais[11|12:14]  #PC[12|14:10] #Math[11:12]  #Anglais[14|18:1]8"
+  },
+  {
+    "code": "AOD010",
+    "numero": "DZLSWQ7",
+    "nom": "sambe",
+    "prenom": "salif",
+    "date_naissance": "18/03/04",
+    "classe": "3emA",
+    "notes_brutes": "#Math[14|10:12] #PC[14|19:12]  #ANGLAIS[10|14:15]  #SVT[15|16|11:17] #HG[12|16:14]  #Francais[15|14:18]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "LFNJESM",
+    "nom": "sambou",
+    "prenom": "jean",
+    "date_naissance": "19/05/06",
+    "classe": "5em B",
+    "notes_brutes": "#SVT[13:15] #PC[19:20]  #Anglais[5|9:9]  #Math[18|16:17] #HG[10:11]  #Francais[13,12:10]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "JHDHRE8",
+    "nom": "sene",
+    "prenom": "jeannette",
+    "date_naissance": "20/12/07",
+    "classe": "6em B",
+    "notes_brutes": "#Math[11|11:12] #PC[11|11:12]  #ANGLAIS[10|14:15]  #SVT[11|1:14] #HG[11|13:14]  #Francais[11|15:12]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "JGRHFNE",
+    "nom": "sy",
+    "prenom": "pathe",
+    "date_naissance": "31 1 2006",
+    "classe": "5 emA",
+    "notes_brutes": "#SVT[12:11] #PC[12:11]  #Anglais[15|14:12]  #Math[13:13] #HG[12:14]  #Francais[14,11:14]"
+  },
+  {
+    "code": "AOD010",
+    "numero": "LSXNEB0",
+    "nom": "gueye",
+    "prenom": "modou",
+    "date_naissance": "03/01/02",
+    "classe": "3em B",
+    "notes_brutes": "#SVT[13:15] #PC[19:20] #Anglais[5|9:9] #Math[18|16:17] #HG[10:11] #Francais[13,12:10]"
+  },
+  {
+    "code": "BMP019",
+    "numero": "IHFK34G",
+    "nom": "DIOUM",
+    "prenom": "Harry",
+    "date_naissance": "14/01/95",
+    "classe": "5e A",
+    "notes_brutes": "SVT[12|19|01:04] #HG[15:11]  #Math[12|14,5|11:13]  #Francais[18|11:10] #Anglais[17,5:15]  #PC[3|15:9]"
+  },
+  {
+    "code": "BMP019",
+    "numero": "NO895G",
+    "nom": "DIOUF",
+    "prenom": "Ibou",
+    "date_naissance": "07/11/94",
+    "classe": "5 em B",
+    "notes_brutes": "Math[9|10,5|11:16] #PC[12|13:19]  #Francais[10|11:13]  #SVT[15|9|16|11:12] #HG[13:13]  #Anglais[13,12:15]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "NT129YK",
+    "nom": "T8UR5",
+    "prenom": "Kine",
+    "date_naissance": "12.32.1990",
+    "classe": "4 em A",
+    "notes_brutes": "SVT[12|20:19] #PC[13|16:19] #Francais[24|15:12] #SVT[12|18:16] #Anglais[17|19:11] #HG[00|7:2] #Math[11|13:14]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "12OUITY7",
+    "nom": "Fall",
+    "prenom": "H654F",
+    "date_naissance": "26/12/88",
+    "classe": "5 eme B",
+    "notes_brutes": "SVT[12|20:10] #PC[13|12:10] #Francais[12|11:13] #SVT[00|10:12] #Anglais[11|12:12] #HG[12|13:3] #Math[00|15:11]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "12DREY89",
+    "nom": "Sall",
+    "prenom": "Dibor",
+    "date_naissance": "",
+    "classe": "6 eme C",
+    "notes_brutes": "SVT[12|20:19] #PC[13|16:19] #Francais[24|15:12] #SVT[12|18:16] #Anglais[17|19:11] #HG[00|07:02] #Math[11|13:14]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "BT3456YH",
+    "nom": "Dingka",
+    "prenom": "Kaba",
+    "date_naissance": "12/05/97",
+    "classe": "4 eme A",
+    "notes_brutes": "SVT[11|10:12] #PC[11|18:20] #Francais[12|11:13] #SVT[13|15:17] #Anglais[00|02:01] #HG[00|05:00] #Math[10|01:09]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "DR765TR4",
+    "nom": "Ndiaye",
+    "prenom": "Ndeye",
+    "date_naissance": "23/05/96",
+    "classe": "5 eme D",
+    "notes_brutes": "SVT[10|07:20] #PC[00|13:10] #Francais[04|10:17] #SVT[13|19:14] #Anglais[12|13:17] #HG[05|08:09] #Math[10|14:17]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "GT3456YT",
+    "nom": "Diop",
+    "prenom": "Sokhna",
+    "date_naissance": "23/08/92",
+    "classe": "4 eme A",
+    "notes_brutes": "SVT[10|08:09] #PC[11|14:17] #Francais[12|13:16] #SVT[11|13:19] #Anglais[18|15:13] #HG[10|04:09] #Math[14|16:19]"
+  },
+  {
+    "code": "BNT021",
+    "numero": "34FT768H",
+    "nom": "Dioum",
+    "prenom": "Khoudia",
+    "date_naissance": "12/09/95",
+    "classe": "6 eme B",
+    "notes_brutes": "SVT[00|12:12] #PC[10|15:17] #Francais[00|02:13] #SVT[13|1à:14] #Anglais[14|18:15] #HG[20|15:09] #Math[10|12:16]"
+  }
+]
