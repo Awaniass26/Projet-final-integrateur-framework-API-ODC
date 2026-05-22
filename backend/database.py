@@ -30,7 +30,6 @@ def create_tables():
             nom VARCHAR(50) NOT NULL,
             prenom VARCHAR(50) NOT NULL,
             date_naissance VARCHAR(20) NOT NULL,
-            moyenne_generale FLOAT,
             archive BOOLEAN DEFAULT FALSE,
             classe_id INTEGER REFERENCES classe(id) 
         );
