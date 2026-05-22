@@ -5,5 +5,5 @@ app = FastAPI()
 
 #definition d'une route pour la racine de l'application
 @app.get("/")
-async def root():    
+async def root():  
     return {"message": "Hello World"}
